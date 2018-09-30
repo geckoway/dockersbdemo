@@ -15,7 +15,7 @@ public class DockerSbDemoApplication {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Docker World2";
+        return "Hello Docker World23";
     }
 
 }
